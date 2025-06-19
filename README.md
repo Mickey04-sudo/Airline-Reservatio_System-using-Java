@@ -40,7 +40,8 @@ SkyFly is a web-based airline reservation platform* that provides an efficient, 
 ---
 
 ##  Screenshots
-
+https://github.com/Mickey04-sudo/Airline-Reservatio_System-using-Java.git
+- View this link for the Screenshots of the project.
 
 
 ##  Code Access
