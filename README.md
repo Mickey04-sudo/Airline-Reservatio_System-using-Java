@@ -1,6 +1,6 @@
 SkyFly – Airline Reservation System
 
-SkyFly is a web-based airline reservation platform* that provides an efficient, intuitive interface for customers and airline staff to search flights, manage bookings, and check in online. Designed to deliver a modern, responsive user experience while minimizing errors and operational complexity.
+SkyFly is a web-based airline reservation platform that provides an efficient, intuitive interface for customers and airline staff to search flights, manage bookings, and check in online. Designed to deliver a modern, responsive user experience while minimizing errors and operational complexity.
 
 ---
 
