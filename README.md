@@ -33,9 +33,9 @@ SkyFly is a web-based airline reservation platform that provides an efficient, i
 
 | Folder                                                                                           | Description |
 |--------                                                                                          |-------------|
-| [/src](https://github.com/JP1244/SkyFly-Airline-Reservation-System/tree/main/src)                | Java source files – Servlets, Controllers, DAOs |
-| [/web](https://github.com/JP1244/SkyFly-Airline-Reservation-System/tree/main/web)                | JSP pages for UI rendering |
-| [/assets](https://github.com/JP1244/SkyFly-Airline-Reservation-System/tree/main/assets)          | Images, CSS, JavaScript files |
+| [/src](https://github.com/Mickey-04-sudo/SkyFly-Airline-Reservation-System/tree/main/src)                | Java source files – Servlets, Controllers, DAOs |
+| [/web](https://github.com/Mickey-04-sudo/SkyFly-Airline-Reservation-System/tree/main/web)                | JSP pages for UI rendering |
+| [/assets](https://github.com/Mickey-04-sudo/SkyFly-Airline-Reservation-System/tree/main/assets)          | Images, CSS, JavaScript files |
 
 ---
 
